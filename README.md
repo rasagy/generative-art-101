@@ -1,15 +1,14 @@
-# data-art-101
-Collection of resources, exercises and activities done to introduce Data Art
+# Data Art 101
+Collection of resources, exercises and activities for getting started with Data Art. Compiled by @rasagy for a workshop at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html) on 22nd Oct, 2016.
 
 # Topics
 
 - Introduction to the domain
-- Exploring computational design through a hands-on activity (no code!)
+- [Exploring computational design](https://github.com/rasagy/data-art-101/issues/1) through a hands-on activity (no code!)
 - Introduction to creative coding (We’ll use P5.js, no prior coding knowledge needed)
-- Generative Art exercise I: Playing with Randomness
+- [Generative Art exercise I](https://github.com/rasagy/data-art-101/issues/2): Playing with Randomness
 - Generative Art exercise II: Playing with data
 - Discussion on how to implement ideas + collaborate further
-
 
 # Other Javascript Libraries
 
