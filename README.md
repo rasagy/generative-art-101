@@ -1,5 +1,6 @@
-# Data Art 101
-Collection of resources, exercises and activities for getting started with Data Art. Compiled by @rasagy for a workshop at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html) on 22nd Oct, 2016.
+# Generative Art 101
+Collection of resources, exercises and activities for getting started with Generative Art. 
+Compiled by @rasagy first for a Data Art workshop at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html) on 22nd Oct, 2016, that ended up becoming more generative art & P5 than just data art.
 
 # Topics
 
