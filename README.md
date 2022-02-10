@@ -1,7 +1,7 @@
 # Generative Art 101
 Collection of resources, exercises and activities for getting started with Generative Art. Collated by @rasagy.
 
-# Workshops & Module Documentation
+# Past Workshops & Module Documentation
 * 29th Jul to 2nd Aug — Generative Art module at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html)
   - Assignment 1: [Recreating, Randomizing & Reanimating classic abstract paintings in P5.js](https://github.com/rasagy/generative-art-101/issues/3)
   - Assignment 2: [Projects on Generative patterns, Data Art with Names, Loop animations & more](https://github.com/rasagy/generative-art-101/issues/4)
@@ -20,19 +20,20 @@ Collection of resources, exercises and activities for getting started with Gener
 ## Structured learning & tutorials
 - :book: [Generative Design: Visualize, Program, and Create with JavaScript in P5.js](http://www.generative-gestaltung.de/2/)
 - :book: [Nature of Code by Daniel Shiffman](https://natureofcode.com/), also check his [online course on Kadenze that uses P5.js](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
+- :book: [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS)
+- :book: [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1)
+- :book: [Code as Creative Medium: A Handbook for Computational Art and Design](https://amzn.to/3u96jqD)
+- :book: [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv)
 - :school_satchel: [Generative Art and Computational Creativity on Kadenze](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 - :computer: [Generative Artistry](https://generativeartistry.com/) — great set of tutorials by Tim Holman
 - :video_camera: [Tutorial videos on Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0) — takes patterns from a brand and makes a generative system out of it
 
 ## Specific techniques
 - :black_nib: [Inconvergent: Anders Hoff’s writings](https://inconvergent.net/generative/) on how he uses randomness, noise to create his projects
+- :black_nib: [Tyler Hobbs](https://tylerxhobbs.com/essays) on how he recreates a painting-like aesthetic, explores color & broader thoughts on generative art as a field
 
 ## Art movements & seminal artists
-- [Selected pieces of some of my favorite abstract artists](https://in.pinterest.com/rasagy/artists-abstract-geometric-modern/) — perfect to practice recreating and reanimating
-
-## Critiques
-
-## Inspiring artists active today
+- [Selected pieces of renowned artists that explored geometric & abstract compositions](https://in.pinterest.com/rasagy/artists-abstract-geometric-modern/) — perfect to practice recreating and reanimating
 
 ## & more!
 - List of [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art) Resources
