@@ -29,6 +29,7 @@ Collection of resources, exercises and activities for getting started with Gener
 - :video_camera: [Tutorial videos on Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0) — takes patterns from a brand and makes a generative system out of it
 
 ## Specific techniques
+- 📹 [Generative Art Speedrun by Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk) – great visual intro to the different generative techniques
 - :black_nib: [Inconvergent: Anders Hoff’s writings](https://inconvergent.net/generative/) on how he uses randomness, noise to create his projects
 - :black_nib: [Tyler Hobbs](https://tylerxhobbs.com/essays) on how he recreates a painting-like aesthetic, explores color & broader thoughts on generative art as a field
 
