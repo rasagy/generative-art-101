@@ -14,8 +14,8 @@ Collection of resources, exercises and activities for getting started with Gener
 ## Getting Started
 - :computer: [P5.js Web Editor](https://editor.p5js.org) for creating & running sketches
 - :book: [P5.js Reference](https://p5js.org/reference/) for looking up commands & syntax, or [download & locally run the offline Reference](https://p5js.org/offline-reference/p5-reference.zip)
-- :computer: [OpenProcessing](https://www.openprocessing.org) to share your final projects, and to look for more inspiration & examples
-- :video_camera: [Daniel Shiffman’s Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/) has an incredible collection of tutorials. Start [Intro to with P5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) or [pick a topic-specific playlist](https://www.youtube.com/user/shiffman/playlists?view=1&flow=grid)
+- :computer: [OpenProcessing](https://www.openprocessing.org) to share your final projects that are easy to embed, and to look for more inspiration & examples
+- :video_camera: [Daniel Shiffman’s Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/) has an incredible collection of tutorials. Start with [Intro to with P5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) or [pick a topic-specific playlist](https://www.youtube.com/user/shiffman/playlists?view=1&flow=grid)
 
 ## Structured learning & tutorials
 - :book: [Generative Design: Visualize, Program, and Create with JavaScript in P5.js](http://www.generative-gestaltung.de/2/)
@@ -31,12 +31,17 @@ Collection of resources, exercises and activities for getting started with Gener
 ## Specific techniques
 - 📹 [Generative Art Speedrun by Tim Holman](https://www.youtube.com/watch?v=4Se0_w0ISYk) – great visual intro to the different generative techniques
 - :black_nib: [Inconvergent: Anders Hoff’s writings](https://inconvergent.net/generative/) on how he uses randomness, noise to create his projects
-- :black_nib: [Tyler Hobbs](https://tylerxhobbs.com/essays) on how he recreates a painting-like aesthetic, explores color & broader thoughts on generative art as a field
+- :black_nib: [Tyler Hobbs](https://tylerxhobbs.com/essays) on how he recreates a painting-like aesthetic, explores color & broader thoughts on generative art as a field + Also check his talk on [recreating a watercolor aesthetic](https://www.youtube.com/watch?v=5R9eywArFTE)
+- 📹 [Box of Chaos: Generative Artist’s Toolkit by Benjamin Kovach](https://www.youtube.com/watch?v=kZNTozzsNqk) — good talk walking through common generative techniques like random/perlin noise/color spaces & more
 
 ## Art movements & seminal artists
 - [Selected pieces of renowned artists that explored geometric & abstract compositions](https://in.pinterest.com/rasagy/artists-abstract-geometric-modern/) — perfect to practice recreating and reanimating
 
-## & more!
+## Inspiration
+- 📹 [Art of Creative Coding by PBS](https://www.youtube.com/watch?v=eBV14-3LT-g) — short teaser about interesting projects in Processing/Cinder/openFrameworks
+- 📹 [Art of Code by Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) — excellent introduction to the weird & weirder world of code for Rockstar developers!
+
+## & more resources!
 - List of [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art) Resources
 - List of [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) Resources
 
