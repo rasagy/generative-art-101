@@ -18,12 +18,13 @@ Collection of resources, exercises and activities for getting started with Gener
 - :video_camera: [Daniel Shiffman’s Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/) has an incredible collection of tutorials. Start with [Intro to with P5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) or [pick a topic-specific playlist](https://www.youtube.com/user/shiffman/playlists?view=1&flow=grid)
 
 ## Structured learning & tutorials
+- :book: [Make: Getting Started With P5.Js](https://www.goodreads.com/book/show/58907120-make)
 - :book: [Generative Design: Visualize, Program, and Create with JavaScript in P5.js](http://www.generative-gestaltung.de/2/)
 - :book: [Nature of Code by Daniel Shiffman](https://natureofcode.com/), also check his [online course on Kadenze that uses P5.js](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
-- :book: [Form+Code in Design, Art, and Architecture](http://amzn.to/2oDxLdS)
-- :book: [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://amzn.to/2nFocI1)
-- :book: [Code as Creative Medium: A Handbook for Computational Art and Design](https://amzn.to/3u96jqD)
-- :book: [Make: Getting Started with Processing, Second Edition](http://amzn.to/2nFfSrv)
+- :book: [Form+Code in Design, Art, and Architecture](http://formandcode.com/)
+- :book: [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org/)
+- :book: [Code as Creative Medium: A Handbook for Computational Art and Design](https://mitpress.mit.edu/books/code-creative-medium)
+- :book: [Creative Code: Aesthetics + Computation](https://www.goodreads.com/book/show/289201.Creative_Code)
 - :school_satchel: [Generative Art and Computational Creativity on Kadenze](https://www.kadenze.com/courses/generative-art-and-computational-creativity-i/info)
 - :computer: [Generative Artistry](https://generativeartistry.com/) — great set of tutorials by Tim Holman
 - :video_camera: [Tutorial videos on Designing Generative Systems w/ P5.js](https://www.youtube.com/playlist?list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0) — takes patterns from a brand and makes a generative system out of it
