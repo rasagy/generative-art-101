@@ -1,14 +1,6 @@
 # Generative Art 101
 Collection of resources, exercises and activities for getting started with Generative Art. Collated by @rasagy.
 
-# Past Workshops & Module Documentation
-* 29th Jul to 2nd Aug — Generative Art module at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html)
-  - Assignment 1: [Recreating, Randomizing & Reanimating classic abstract paintings in P5.js](https://github.com/rasagy/generative-art-101/issues/3)
-  - Assignment 2: [Projects on Generative patterns, Data Art with Names, Loop animations & more](https://github.com/rasagy/generative-art-101/issues/4)
-* 22nd Oct, 2016 — ~Data~ Generative Art workshop at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html)
-  - Assignment 1: [Conditional Design Poster using your Birthday](https://conditionaldesign.org/workshops/order-your-own-birthday-poster/)
-  - Assignment 2: Experiments with P5.js, [shared on this issue](https://github.com/rasagy/generative-art-101/issues/2)
-
 # References
 
 ## Getting Started
@@ -45,6 +37,14 @@ Collection of resources, exercises and activities for getting started with Gener
 ## & more resources!
 - List of [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art) Resources
 - List of [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) Resources
+
+# Past Workshops & Module Documentation on Github
+* 29th Jul to 2nd Aug, 2019 — Generative Art module at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html)
+  - Assignment 1: [Recreating, Randomizing & Reanimating classic abstract paintings in P5.js](https://github.com/rasagy/generative-art-101/issues/3)
+  - Assignment 2: [Projects on Generative patterns, Data Art with Names, Loop animations & more](https://github.com/rasagy/generative-art-101/issues/4)
+* 22nd Oct, 2016 — ~Data~ Generative Art workshop at [NID, Bangalore](http://www.nid.edu/institute/campuses/bengaluru.html)
+  - Assignment 1: [Conditional Design Poster using your Birthday](https://conditionaldesign.org/workshops/order-your-own-birthday-poster/)
+  - Assignment 2: Experiments with P5.js, [shared on this issue](https://github.com/rasagy/generative-art-101/issues/2)
 
 # License & Contribute
 - Code (examples) under MIT license — Feel free to reuse, adapt and share!
